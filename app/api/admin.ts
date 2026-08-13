@@ -1,7 +1,7 @@
 const ADMIN_SESSION_KEY = "classroom-leaderboard-admin-session";
 
 // Change this to whatever password you want the admin panel to use.
-const ADMIN_PASSWORD = "rahin1234";
+const ADMIN_PASSWORD = "@radfasdasdasdasdasdasdasdsdahin1234";
 
 function isBrowser() {
   return typeof window !== "undefined";
